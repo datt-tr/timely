@@ -1,0 +1,6 @@
+@Timely.Api_HostAddress = http://localhost:5138
+
+GET {{Timely.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
