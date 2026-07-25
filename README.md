@@ -1,5 +1,5 @@
 # Timely
-**Timely - Arbeitszeiterfassungssystem**
+**Timely - Arbeitszeiterfassungssystem**. Aktuell Phase 1
 
 ## Notizen
 
@@ -125,15 +125,15 @@ nicht Restful aber angenehmer für Frontend Entwickler
 | Login | POST | `/api/v1/auth/login` |
 | Logout | POST | `/api/v1/auth/logout` |
 | Register | POST | `/api/v1/auth/register` |
-|
+| Me | GET | `/api/v1/auth/me` |
+| |
 | Start Work | POST | `/api/v1/time/work/start` | benötigt Location
 | End Work | POST | `/api/v1/time/work/end` |
 | Start Break | POST | `/api/v1/time/break/start` |
 | End Break | POST | `/api/v1/time/break/end` |
-|
+| |
 | Status | GET | `/api/v1/time/status` |
-| Working hours | GET | `/api/v1/time/working-hours` |
-| Break hours | GET | `/api/v1/time/break-hours` |
+| |
 
 
 ## Git

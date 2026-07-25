@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Projektmappenelemente/">
-    <File Path="README.md" />
+    <File Path="../API.md" />
+    <File Path="../README.md" />
   </Folder>
   <Folder Name="/src/">
     <Project Path="src/Timely.Api/Timely.Api.csproj" />
