@@ -43,6 +43,7 @@
 	- Id
 	- Name
 	- Surname
+	- Email
 	- Role
 		- Employee
 		- Admin
