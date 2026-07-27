@@ -2,6 +2,7 @@
   <Folder Name="/Projektmappenelemente/">
     <File Path="../.github/copilot-instructions.md" />
     <File Path="../API.md" />
+    <File Path="../compose.yaml" />
     <File Path="../README.md" />
   </Folder>
   <Folder Name="/src/">

@@ -18,13 +18,17 @@
 	- `/insights`
 	- github mcp
 	- context7
-- cmd Befehle
+- sln Einrichtung
 	- `dotnet new gitignore`
 	- `dotnet new sln -n Timely`
 	- `dotnet new webapi --use-controllers -o Timely.Api`
 	- `dotnet new classlib -o Timely.Domain`
 	- `dotnet sln add src\Timely.Api`
 	- `dotnet add Timely.Api reference Timely.Application`
+- Docker
+	- `docker compose up --build`
+	- `docker compose down`
+	- ctrl + c - stoppt die Container
 
 ## Datenmodell
 - TimeEvent
