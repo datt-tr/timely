@@ -136,6 +136,10 @@ nicht Restful aber angenehmer für Frontend Entwickler
 | Status | GET | `/api/v1/time/status` |
 | |
 
+## Docker
+Für die Bereitstellung auf einem VPS wird Docker verwendet. Auch für die lokale Entwicklung wird Docker verwendet, um eine konsistente Umgebung zu gewährleisten.
+
+Dockerfile, docker-compose.yaml und .env Datei für lokale Entwicklung und Bereitstellung
 
 ## Git
 - main (release branch)
