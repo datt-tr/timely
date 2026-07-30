@@ -79,6 +79,7 @@
 		- Day, Type, Times Recorded, Quota Coverage, Quota, Balance, Total Balance
 	- Rolle: Mitarbeiter
 - Phase 2
+	- 2 Sprachen Unterstützung
 	- Kalenderansicht
 	- Andere TimeEvents
 		- Urlaub / Krankheit / Ferien
@@ -177,7 +178,7 @@ Dockerfile, docker-compose.yaml und .env Datei für lokale Entwicklung und Berei
 	- Architektur w/ Clean Architecture + Vertical Slices
 	- DDD
 	- SOLID Prinzipien
-	- Result Pattern
+	- Result Pattern w/ FluentResults
 	- Dependency Injection
 - Monitoring
 	- Logs, Metrics and Traces w/ OpenTelemetry 
@@ -217,6 +218,9 @@ Dockerfile, docker-compose.yaml und .env Datei für lokale Entwicklung und Berei
 - Optimistic Concurrency
 - Race Conditions
 - Idempotency Key
+- Prinzip Least Privilege
+- Unveränderlichkeit von Daten
+- Kapselung
 
 
 ### Datenmodell
