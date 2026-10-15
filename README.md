@@ -29,7 +29,8 @@
 	- `docker compose up --build`
 	- `docker compose down`
 	- ctrl + c - stoppt die Container
-
+- ProblemDetails
+	- [ValidationProblemDetails](https://codewithmukesh.com/blog/problem-details-in-aspnet-core/)
 ## Datenmodell
 - TimeEvent
 	- Id
